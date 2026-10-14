@@ -63,7 +63,7 @@ flowchart LR
 
 ## Nasıl denenir
 1. [Releases](../../releases) sayfasından `RocketGroundStation-Windows.zip` dosyasını indirip çıkar.
-2. `Roket Panel.exe` dosyasını çalıştır.
+2. `RocketGroundStation.exe` dosyasını çalıştır.
 3. Alıcı Arduino'nun ve TTL modülün COM numaralarını yazıp **Bağlan**'a bas.
 
 > Donanım bağlı değilse arayüz açılır ama veri akmaz. Portlar kırmızı gösterilir ve hata uyarısı çıkar.
